@@ -2,7 +2,7 @@
   "moduleUUID": "65cc6c06b3121d755c607f5f",
   "type": "QUERY_MODULE",
   "unpublishedModuleInstance": {
-    "version": "0.0.6",
+    "version": "0.0.7",
     "name": "Select_public_users1",
     "contextType": "PAGE",
     "pageId": "Page1",

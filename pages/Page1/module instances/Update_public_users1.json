@@ -2,7 +2,7 @@
   "moduleUUID": "65cc6c39b3121d755c607f96",
   "type": "QUERY_MODULE",
   "unpublishedModuleInstance": {
-    "version": "0.0.6",
+    "version": "0.0.7",
     "name": "Update_public_users1",
     "contextType": "PAGE",
     "pageId": "Page1",
