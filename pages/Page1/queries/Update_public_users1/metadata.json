@@ -1,0 +1,24 @@
+{
+  "moduleInstanceId": "Page1_Update_public_users1",
+  "isPublic": true,
+  "rootModuleInstanceId": "Page1_Update_public_users1",
+  "pluginType": "DB",
+  "pluginId": "postgres-plugin",
+  "unpublishedAction": {
+    "name": "_$Update_public_users1$_Update_public_users1Module",
+    "pageId": "Page1",
+    "contextType": "PAGE",
+    "executeOnLoad": false,
+    "isValid": true,
+    "invalids": [],
+    "messages": [],
+    "userSetOnLoad": false,
+    "confirmBeforeExecute": false,
+    "policies": [],
+    "userPermissions": [],
+    "createdAt": "2024-02-14T07:30:09Z"
+  },
+  "id": "Page1__$Update_public_users1$_Update_public_users1Module",
+  "deleted": false,
+  "gitSyncId": "65cc6bdcb3121d755c607f3e_65cc6c3ab3121d755c607faf"
+}

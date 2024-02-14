@@ -1,0 +1,35 @@
+{
+  "sourceModuleList": [
+    {
+      "packageUUID": "65cc6be7b3121d755c607f48",
+      "packageName": "Untitled Package 1",
+      "moduleUUID": "65cc6be7b3121d755c607f4a",
+      "moduleName": "Query1Module",
+      "version": "0.0.6"
+    },
+    {
+      "packageUUID": "65cc6be7b3121d755c607f48",
+      "packageName": "Untitled Package 1",
+      "moduleUUID": "65cc6c06b3121d755c607f5f",
+      "moduleName": "Select_public_users1Module",
+      "version": "0.0.6"
+    },
+    {
+      "packageUUID": "65cc6be7b3121d755c607f48",
+      "packageName": "Untitled Package 1",
+      "moduleUUID": "65cc6c1cb3121d755c607f6f",
+      "moduleName": "Query2Module",
+      "version": "0.0.6"
+    },
+    {
+      "packageUUID": "65cc6be7b3121d755c607f48",
+      "packageName": "Untitled Package 1",
+      "moduleUUID": "65cc6c39b3121d755c607f96",
+      "moduleName": "Update_public_users1Module",
+      "version": "0.0.6"
+    }
+  ],
+  "clientSchemaVersion": 1,
+  "serverSchemaVersion": 7,
+  "fileFormatVersion": 5
+}

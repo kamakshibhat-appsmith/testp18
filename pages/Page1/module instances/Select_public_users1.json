@@ -1,0 +1,28 @@
+{
+  "moduleUUID": "65cc6c06b3121d755c607f5f",
+  "type": "QUERY_MODULE",
+  "unpublishedModuleInstance": {
+    "version": "0.0.6",
+    "name": "Select_public_users1",
+    "contextType": "PAGE",
+    "pageId": "Page1",
+    "inputs": {
+      "input1": "{{Table1.sortOrder.order !== \"desc\" ? \"\" : \"DESC\"}}",
+      "input2": "{{Table1.sortOrder.column || 'id'}}",
+      "input3": "{{Table1.pageSize}}",
+      "input4": "{{Table1.pageOffset}}"
+    },
+    "jsonPathKeys": [
+      "Table1.pageOffset",
+      "Table1.pageSize",
+      "Table1.sortOrder.column || 'id'",
+      "Table1.sortOrder.order !== \"desc\" ? \"\" : \"DESC\""
+    ],
+    "isValid": true,
+    "invalids": [],
+    "userPermissions": []
+  },
+  "id": "Page1_Select_public_users1",
+  "deleted": false,
+  "gitSyncId": "65cc6bdcb3121d755c607f3e_65cc6c06b3121d755c607f6c"
+}
